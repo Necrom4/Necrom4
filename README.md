@@ -15,5 +15,5 @@ I'm Diogo, at 18yo I took a sharp turn in my studies and joined **[42 Lausanne](
 ## 📦 Top Projects
 
 - [dotfiles](https://github.com/necrom4/dotfiles): My very own Iron Man suit, except the armor is Zsh and Jarvis is Neovim.
-- [synyster.ch](https://github.com/necrom4/synyster.ch): My Heavy Metal band's website, I use it to train my Fullstack knowledge.
-- [ft_transcepdence](https://github.com/Necrom4/42-transcendence): The final project of 42's "Common Core".
+- [synyster.ch](https://github.com/necrom4/synyster.ch): My Metal band's website, and my own Fullstack training course.
+- [ft_transcendence](https://github.com/Necrom4/42-transcendence): The final project of 42's "Common Core".
